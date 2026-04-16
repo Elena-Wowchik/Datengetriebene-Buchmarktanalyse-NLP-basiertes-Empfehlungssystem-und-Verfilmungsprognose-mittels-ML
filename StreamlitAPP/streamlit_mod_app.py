@@ -6,7 +6,8 @@ st.set_page_config(page_title="Book Market", layout="wide")
 from trans_author import AuthorRatingMapper
 import Verfilmungsprognose
 import Wirtschaftanalyse
-import empfehlung
+
+# import empfehlung
 import start
 
 st.sidebar.title("📘 Projekt-Navigation")
@@ -22,5 +23,5 @@ elif page == "Verfilmungsprognose":
     Verfilmungsprognose.show()
 elif page == "Wirtschaftsanalyse":
     Wirtschaftanalyse.show()
-elif page == "Empfehlungssystem":
-    empfehlung.show()
+# elif page == "Empfehlungssystem":
+# empfehlung.show()
