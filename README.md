@@ -3,6 +3,7 @@
 Ein datengetriebenes Analyse- und Vorhersageprojekt rund um den Buchmarkt.  
 Interaktiv, intelligent und visuell – umgesetzt mit **Python**, **Streamlit** und **Machine Learning**.
 
+[Präsentation als pdf - file ansehen](projekt_Buchmarkt_analyse_prösentation.pdf)
 ---
 
 ## 🔍 Projektübersicht
